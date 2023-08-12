@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm PRIYANSHU ANAND</h1>
 <h3 align="center">Aspiring Developer and Problem Solver</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshuanand166&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshuanand166" /> </p>
+
+
 # 💫 About Me:
 🌱 I’m currently learning JavaScript<br><br>👨‍💻 All of my projects are available at https://priyanshuanand166.github.io/Portfolio-Website/<br><br>💬 Ask me about C++, DSA, SQL, HTML, CSS, GIT<br><br>📫 How to reach me priyanshuanand166@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/drive/folders/143jhu4xrfAQGTAaKL7_3tVhmt8bZ1qJg?usp=drive_link
 
