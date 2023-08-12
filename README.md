@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm PRIYANSHU ANAND</h1>
 <h3 align="center">Aspiring Developer and Problem Solver</h3>
 
